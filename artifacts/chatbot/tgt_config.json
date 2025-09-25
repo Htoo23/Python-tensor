@@ -1,0 +1,5 @@
+{
+  "seq_len": 32,
+  "standardize": null,
+  "split": "whitespace"
+}

@@ -1,0 +1,5 @@
+{
+  "seq_len": 64,
+  "standardize": "lower_and_strip_punctuation",
+  "split": "whitespace"
+}
